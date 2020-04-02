@@ -1,4 +1,4 @@
-# updateme
+# Flutter App which uses NewsAPI
 
 A new Flutter project.
 
